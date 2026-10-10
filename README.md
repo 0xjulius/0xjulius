@@ -1,4 +1,4 @@
-## Hey there! 👋 I am 0xjulius
+## Hi,  I am 0xjulius 👋
 
 ### Developer, Designer & Business Mind
 
