@@ -22,8 +22,6 @@ I'm always looking for new opportunities! Whether you want to chat about tech, e
 
 ---
 
-### Skills
-
 <p align="left">
   <!-- Kielet & Ydinteknologiat -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
