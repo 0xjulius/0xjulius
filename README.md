@@ -11,7 +11,7 @@ I blend a background in business, tech, and visual design with a real passion fo
 
 ### I'm currently working on
 
-* [Duunify.com](https://duunify.com) - Duunify functions architecturally as a reverse applicant tracking system (Reverse ATS). It is a job management platform designed to help users track, organize, and manage their saved job applications, employment statuses, and important deadlines through automated notifications, automation, and AI-powered features (such as cover letter generation) with privacy on mind. [Case study](https://juliusaalto.com/projects/duunify-mini-saas)
+* [Duunify.com](https://duunify.com) - Generative AI Solution - Duunify functions architecturally as a reverse applicant tracking system (Reverse ATS). It is a job management platform designed to help users track, organize, and manage their saved job applications, employment statuses, and important deadlines through automated notifications, automation, and AI-powered features (such as cover letter generation) with privacy on mind. [Case study](https://juliusaalto.com/projects/duunify-mini-saas) Made with NextJS, TypeScript, Supabase.
 
 * [juliusaalto.com](https://juliusaalto.com) - My IT-Portfolio, A modern webpage built with React and Tailwind CSS, showcasing my projects, background, and technical journey.
 * HILMA AI SAAS / Julkiset hankinnat -solution (Private) - Smart B2G/B2B -solution that streamlines public procurement tracking by aggregating, analyzing, and surfacing high-value tender opportunities from Finland's Hilma registry into an intuitive dashboard, built with NextJS, TypeScript.
