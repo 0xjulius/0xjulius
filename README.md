@@ -5,7 +5,7 @@
 I blend a background in business, tech, and visual design with a real passion for modern web tools like Next.js, TypeScript, and Tailwind. My goal is simple: to build smart solutions and scalable architectures that actually save time, looks good, run smoothly, and bring real value to the table while securing future growth.
 
 ### 🌟 Studies
-- **Bachelor of Business Administration in Information Technologies**
+- **Bachelor of Business Administration in Information Technologies** - (VAMK Vaasa university of applied sciences)
 - **Visual Designer & Cultural Production**
 - **Vocational Qualification in Business and Administration (Merkonomi)**
 
