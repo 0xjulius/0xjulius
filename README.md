@@ -11,6 +11,8 @@ I blend a background in business, tech, and visual design with a real passion fo
 
 ### I'm currently working on
 
+* [RAG AI](https://github.com/0xjulius/Local-RAG-Engine) –  A secure, privacy-first **Local RAG (Retrieval-Augmented Generation)** full-stack solution designed for enterprise needs. The application enables organizations to query internal documentation and sensitive data securely using **local large language models (LLMs)** without risking data leakage to external cloud APIs completely offline. Features efficient vector search, context-aware answers, and robust **data protection** standards for secure corporate environments. [Case study](http://localhost:5173/projects/rag-engine) Made with Docker, Python, TypeScript, Vite, Tailwind and LM Studio.
+  
 * [Duunify.com](https://duunify.com) - Generative AI Solution - Duunify functions architecturally as a reverse applicant tracking system (Reverse ATS). It is a job management platform designed to help users track, organize, and manage their saved job applications, employment statuses, and important deadlines through automated notifications, automation, and AI-powered features (such as cover letter generation) with privacy on mind. [Case study](https://juliusaalto.com/projects/duunify-mini-saas) Made with NextJS, TypeScript, Supabase.
 
 * [juliusaalto.com](https://juliusaalto.com) - My IT-Portfolio, A modern webpage built with React and Tailwind CSS, showcasing my projects, background, and technical journey.
